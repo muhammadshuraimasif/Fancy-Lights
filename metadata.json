@@ -1,0 +1,8 @@
+{
+  "name": "AB fancy Lights.",
+  "description": "Decorative lighting, modern illumination, and stylish interior decoration solutions for residential and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
